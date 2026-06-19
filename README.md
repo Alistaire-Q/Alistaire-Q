@@ -25,18 +25,6 @@
 
 <br/>
 
-## How I Build
-
-<div align="center">
-
-**Idea → Prompt → Antigravity IDE → Test → Ship → Iterate**
-
-</div>
-
-> Antigravity IDE handles a lot of the repetitive work through AI agents, which frees me up to actually understand what I'm building instead of getting stuck on boilerplate. The prompt is the starting point — my job is to guide it, test what comes back, and make sure it actually works before calling it done.
-
-<br/>
-
 ## Tech Stack
 
 **Languages & Frameworks**
@@ -61,17 +49,6 @@
 | Building | Something new with AI — details soon |
 | Learning | Agentic workflows & prompting techniques |
 | Ask me about | AI-assisted development, Antigravity IDE |
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alistaire-Q&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Olly's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alistaire-Q&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
 
 <br/>
 
