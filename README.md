@@ -71,8 +71,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Alistaire-Q&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Olly's GitHub stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alistaire-Q&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alistaire-Q&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 <br/>
@@ -91,8 +89,6 @@
 <div align="center">
 
 Thanks for reading this far.
-
-<img src="https://komarev.com/ghpvc/?username=Alistaire-Q&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="footer" />
 
