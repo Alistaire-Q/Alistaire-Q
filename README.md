@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=I+don't+just+write+code.;I'm+learning+to+build+with+AI.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Status](https://img.shields.io/badge/status-student-7C3AED?style=for-the-badge)
-![Focus](https://img.shields.io/badge/focus-AI%20development-2563EB?style=for-the-badge)
-![Tools](https://img.shields.io/badge/tools-Antigravity%20IDE-0EA5E9?style=for-the-badge)
-
 </div>
 
 <br/>
