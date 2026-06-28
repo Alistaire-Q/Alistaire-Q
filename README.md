@@ -1,126 +1,67 @@
 <div align="center">
 
-# Olly
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Olly&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Building%20useful%20software%20with%20AI%2C%20code%20and%20creativity&descAlignY=55&animation=fadeIn" alt="header banner"/>
 
-Building software where AI, engineering, and design meet.
+<br/>
 
-<p>
-<a href="https://github.com/Alistaire-Q">GitHub</a> •
-<a href="https://www.linkedin.com/in/qolby-sumarra-satriawan-937a7b34a">LinkedIn</a> •
-<a href="https://x.com/Stariaa_Q">X</a>
-</p>
+</div>
+
+# 🧭 Developer Snapshot
+
+```yaml
+name: Olly
+location: Indonesia
+role: Software Engineering Student
+
+about:
+  - Passionate about Artificial Intelligence
+  - Interested in Blockchain Technology
+  - Building practical software with modern technologies
+```
+
+---
+
+# 🧰 Tech Stack
+
+| Category | Stack |
+|----------|-------|
+| 💻 **Languages** | Python • JavaScript • PHP • Dart |
+| 🎨 **Frontend** | React • Vite • React Router • Zustand • Tailwind CSS • PostCSS • Axios • Framer Motion • Lucide React • React Player • TypeScript Types |
+| ⚙️ **Backend** | FastAPI • Uvicorn • Groq API • Supabase • MySQL |
+| 🛠 **Infrastructure** | Docker • Git • GitHub • Figma • FFmpeg • OpenCV • Haarcascade |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,php,dart,react,vite,tailwind,fastapi,mysql,supabase,docker,git,github,figma" />
 
 </div>
 
 ---
 
-## Now
+# 🌐 Connect
 
-```text
-Building:
-    AI-assisted developer tools
+<div align="center">
 
-Learning:
-    AI Engineering
-    Distributed Systems
-    Product Design
+<a href="https://x.com/Stariaa_Q">
+<img src="https://img.shields.io/badge/@Stariaa__Q-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-Interested in:
-    Intelligent Interfaces
-    Developer Experience
-    Automation
-```
+<a href="https://www.linkedin.com/in/qolby-sumarra-satriawan-937a7b34a">
+<img src="https://img.shields.io/badge/LinkedIn-Qolby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## Selected Stack
+<div align="center">
 
-```text
-Languages
-──────────────
-Python
-PHP
-Dart
-JavaScript
+### ⭐ Thanks for visiting my profile!
 
-Frameworks
-──────────────
-Flutter
-Supabase
+*"Every project starts as an idea. Every improvement starts with curiosity."*
 
-Infrastructure
-──────────────
-Docker
-MySQL
-Git
-GitHub
+<br/>
 
-Design
-──────────────
-Figma
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
 
----
-
-## Current Direction
-
-I enjoy building software that removes friction.
-
-Most of my work revolves around combining AI with practical applications instead of building demos.
-
-Current interests include:
-
-- AI-assisted products
-- Mobile applications
-- Backend systems
-- Developer tooling
-- Human-centered interfaces
-
----
-
-## Principles
-
-```
-Less abstraction.
-More clarity.
-
-Less hype.
-More execution.
-
-Less complexity.
-More craftsmanship.
-```
-
----
-
-## Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| Rise | AI-powered finance assistant | Active |
-| Astral | Mobile application | In Progress |
-| — | More coming soon | ••• |
-
----
-
-## Currently Reading
-
-```
-Designing Data-Intensive Applications
-
-Building Microservices
-
-Clean Architecture
-
-The Pragmatic Programmer
-```
-
----
-
-## Contact
-
-X
-→ https://x.com/Stariaa_Q
-
-LinkedIn
-→ https://www.linkedin.com/in/qolby-sumarra-satriawan-937a7b34a
+</div>
