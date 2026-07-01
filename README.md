@@ -1,14 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=hey%2C%20I'm%20Olly%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20useful%20software%20with%20AI%2C%20code%2C%20and%20curiosity&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=hey%2C%20I'm%20Olly&fontSize=42&fontColor=ffffff&fontAlignY=38" />
 </div>
 
 <br/>
 
 ## 🧭 Developer Snapshot
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<td valign="top" width="65%">
+<td valign="top">
 
 ```yaml
 name:     Olly
@@ -18,28 +19,24 @@ role:     Software Engineering Student
 about:
   - Building practical software with AI
   - Interested in Blockchain & Web3
-  - Love shipping things that actually work
+  - Building practical software with modern technologies
 
-currently:
-  building:  AI-assisted dev tool (details soon)
-  learning:  Agentic workflows & LLM integration
-  exploring: Antigravity IDE, Claude Code, Cursor
 ```
 
 </td>
-<td align="center" valign="middle" width="35%">
-
+<td align="center" valign="middle">
 <img src="https://media1.tenor.com/m/28the5P-qGUAAAAC/elaina-evernight.gif" width="180" alt="elaina gif" />
-
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ## 🧰 Tech Stack
 
-<table width="100%">
+<div align="center">
+<table>
 <thead>
 <tr>
 <th align="left" width="22%">Category</th>
@@ -69,6 +66,7 @@ currently:
 </tr>
 </tbody>
 </table>
+</div>
 
 <div align="center">
 <br/>
