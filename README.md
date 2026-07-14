@@ -15,12 +15,10 @@
 name:     Olly
 location: Indonesia
 role:     Software Engineering Student
-
 about:
   - Building practical software with AI
   - Interested in Blockchain & Web3
   - Building practical software with modern technologies
-
 ```
 
 </td>
@@ -36,6 +34,7 @@ about:
 ## 🧰 Tech Stack
 
 <div align="center">
+
 <table>
 <thead>
 <tr>
@@ -46,15 +45,15 @@ about:
 <tbody>
 <tr>
 <td>💻 <strong>Languages</strong></td>
-<td>Python · JavaScript · PHP · Dart</td>
+<td>Python</td>
 </tr>
 <tr>
 <td>🎨 <strong>Frontend</strong></td>
-<td>React · Vite · Tailwind CSS · Zustand · Framer Motion · TypeScript</td>
+<td>React · Vite · Tailwind CSS · Zustand · TypeScript</td>
 </tr>
 <tr>
 <td>⚙️ <strong>Backend</strong></td>
-<td>FastAPI · Groq API · Supabase · MySQL</td>
+<td>FastAPI · Groq API · Supabase</td>
 </tr>
 <tr>
 <td>📱 <strong>Mobile</strong></td>
@@ -62,15 +61,16 @@ about:
 </tr>
 <tr>
 <td>🛠 <strong>Infra & Tools</strong></td>
-<td>Docker · Git · GitHub · Figma · FFmpeg · OpenCV</td>
+<td>Docker · Git · Figma · FFmpeg · OpenCV</td>
 </tr>
 </tbody>
 </table>
+
 </div>
 
 <div align="center">
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,php,dart,react,vite,tailwind,fastapi,mysql,supabase,docker,git,github,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=py,react,vite,tailwind,ts,fastapi,supabase,flutter,docker,git,figma,opencv&perline=6" />
 </div>
 
 ---
@@ -78,7 +78,6 @@ about:
 ## 🌐 Connect
 
 <div align="center">
-
 <a href="https://x.com/Stariaa_Q">
 <img src="https://img.shields.io/badge/@Stariaa__Q-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
@@ -86,7 +85,6 @@ about:
 <a href="https://www.linkedin.com/in/qolby-sumarra-satriawan-937a7b34a">
 <img src="https://img.shields.io/badge/LinkedIn-Qolby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </div>
 
 <br/>
