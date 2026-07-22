@@ -75,18 +75,6 @@ about:
 
 ---
 
-## 🌐 Connect
-
-<div align="center">
-<a href="https://x.com/Stariaa_Q">
-<img src="https://img.shields.io/badge/@Stariaa__Q-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/qolby-sumarra-satriawan-937a7b34a">
-<img src="https://img.shields.io/badge/LinkedIn-Qolby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>
-
 <br/>
 
 <div align="center">
