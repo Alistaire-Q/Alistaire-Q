@@ -4,7 +4,7 @@
 
 <br/>
 
-## 🧭 Developer Snapshot
+##  Developer Snapshot
 
 <div align="center">
 <table>
@@ -31,7 +31,7 @@ about:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -44,19 +44,19 @@ about:
 </thead>
 <tbody>
 <tr>
-<td>💻 <strong>Languages</strong></td>
+<td> <strong>Languages</strong></td>
 <td>Python</td>
 </tr>
 <tr>
-<td>🎨 <strong>Frontend</strong></td>
+<td> <strong>Frontend</strong></td>
 <td>React · Vite · Tailwind CSS · Zustand · TypeScript</td>
 </tr>
 <tr>
-<td>⚙️ <strong>Backend</strong></td>
+<td> <strong>Backend</strong></td>
 <td>FastAPI · Groq API · Supabase</td>
 </tr>
 <tr>
-<td>📱 <strong>Mobile</strong></td>
+<td> <strong>Mobile</strong></td>
 <td>Flutter</td>
 </tr>
 <tr>
