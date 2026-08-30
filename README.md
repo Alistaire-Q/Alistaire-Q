@@ -60,7 +60,7 @@ about:
 <td>Flutter</td>
 </tr>
 <tr>
-<td>🛠 <strong>Infra & Tools</strong></td>
+<td> <strong>Infra & Tools</strong></td>
 <td>Docker · Git · Figma · FFmpeg · OpenCV</td>
 </tr>
 </tbody>
